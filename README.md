@@ -12,6 +12,7 @@
 - 🧭 年龄: 30
 - 🌏 现居: 山东青岛
 - 📞 手机: 18306390693
+- 🥑 公众号: 【JavaDog程序狗】
 
 ## 博客简介
 
@@ -26,10 +27,11 @@
 | gitee|[https://gitee.com/javadog-net](https://gitee.com/javadog-net)  | 
 | GitHub|[https://github.com/javadog-net](https://github.com/javadog-net)| 
 
-
-
 ## 文章推荐
-[【苹果】SpringBoot监听Iphone15邮件提醒，Selenium+Python自动化抢购脚本](https://mp.weixin.qq.com/s/g7AZOWLgW5vcCahyJDEPKA)
+
+[【苹果】SpringBoot监听Iphone15邮件提醒，Selenium+Python自动化抢购脚本](https://mp.weixin.qq.com/s?__biz=MzI0MTk1OTE0OA==&mid=2247485024&idx=1&sn=0b1955d34f8a997047e87eb003dc9257&chksm=e902efe3de7566f57c509465855e6ceb85ab21070f55e2fb9c2475c4576f7c51b0f22accbf69#rd)
+
+[【规范】SpringBoot接口返回结果及异常统一处理，这样封装才优雅](https://mp.weixin.qq.com/s?__biz=MzI0MTk1OTE0OA==&mid=2247484847&idx=1&sn=bfd60bed1aef8ddcf4c030f7882a9a6d&chksm=e902ec2cde75653a0ab9a89be0365ba8f5f86a1b4de21104ff2e67352fb311e52443cd9c4a9b#rd)
 
 [【项目实战】SpringBoot+uniapp+uview2打造H5+小程序+APP入门学习的聊天小项目](https://mp.weixin.qq.com/s/g7AZOWLgW5vcCahyJDEPKA)
 
