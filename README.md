@@ -6,7 +6,7 @@
 
 ![](https://raw.githubusercontent.com/javadog-net/javadog-net/output/github-contribution-grid-snake.svg)
 
-## 个人简介
+### 个人简介
 - 🐕 姓名: 胡东旭
 - 👦 性别: 男
 - 🧭 年龄: 30
@@ -14,7 +14,10 @@
 - 📞 手机: 18306390693
 - 🥑 公众号: 【JavaDog程序狗】
 
-## 博客简介
+### 仓库信息
+![技术栈](https://github-readme-stats.vercel.app/api/top-langs/?username=javadog-net&layout=compact&theme=tokyonight)   
+
+### 博客简介
 
 | JavaDog| 狗屋地址 |
 | :----:| :----: | 
@@ -27,7 +30,7 @@
 | gitee|[https://gitee.com/javadog-net](https://gitee.com/javadog-net)  | 
 | GitHub|[https://github.com/javadog-net](https://github.com/javadog-net)| 
 
-## 文章推荐
+### 文章推荐
 
 [【苹果】SpringBoot监听Iphone15邮件提醒，Selenium+Python自动化抢购脚本](https://mp.weixin.qq.com/s?__biz=MzI0MTk1OTE0OA==&mid=2247485024&idx=1&sn=0b1955d34f8a997047e87eb003dc9257&chksm=e902efe3de7566f57c509465855e6ceb85ab21070f55e2fb9c2475c4576f7c51b0f22accbf69#rd)
 
